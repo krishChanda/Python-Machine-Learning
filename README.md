@@ -4,6 +4,7 @@
 
 # Natural Language Processing (NLP) Project:
 Given a dataset of Yelp reviews from [Kaggle](https://www.kaggle.com/c/yelp-recsys-2013), I used exploratory data analysis and implemented an NLP model using the Python sklearn library in order to determine based on a review, whether it was positive (5-star) or negative (1-star).
+![Heatmap](images/Heatmap.png)
 * 0   business_id  10000 non-null  object
 * 1   date         10000 non-null  object
 * 2   review_id    10000 non-null  object
@@ -70,6 +71,7 @@ Given a dataset from Kaggle for [loan details](https://www.kaggle.com/wordsforth
 ![RNN Model](images/RNNModel.png)
 ## Model Conclusion:
 The model had an accuracy f1-score of 0.89, meaning, given information about a user from a dataset, the model had approximately an 89% chance of guessing right whether a person can pay off a loan or have to be charged off.
+![History Model](images/ModelHistory.png)
 
 # Following Python Libraries Used:
 * NumPy
