@@ -20,7 +20,7 @@ Given a dataset of Yelp reviews from [Kaggle](https://www.kaggle.com/c/yelp-recs
 * Graph distributions of each Yelp review by stars (1-5) and text length
 * Find if any strong correlations lie in the data using a heatmap
 * Separate the data into train/test splits & use CountVectorizer() function to remove any stopwords from the reviews
-* Implement and training a Pipeline model that uses a MultinomialNB classifier and Tf-idf transformer
+* Implement and train a Pipeline model that uses a MultinomialNB classifier and Tf-idf transformer
 * Create a classification report & confusion matrix to determine the accuracy of the model
 
 ## Model Conclusion:
