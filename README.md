@@ -8,6 +8,7 @@ Given a dataset of Yelp reviews from [Kaggle](https://www.kaggle.com/c/yelp-recs
 ### Correlation Map
 ![Heatmap](images/Heatmap.png)
 
+### Dataset info
 * 0   business_id  10000 non-null  object
 * 1   date         10000 non-null  object
 * 2   review_id    10000 non-null  object
