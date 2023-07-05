@@ -30,6 +30,10 @@ Given a dataset of Yelp reviews from [Kaggle](https://www.kaggle.com/c/yelp-recs
 ## Model Conclusion:
 The model had an accuracy f1-score of 0.81, meaning, given a text Yelp review, the model had approximately an 81% chance of guessing right whether it was a 5-star or 1-star review.
 
+### Model Results:
+![Model Results](images/NLPModelResults.png)
+
+
 # Recurrent Neural Net (RNN) Project:
 Given a dataset from Kaggle for [loan details](https://www.kaggle.com/wordsforthewise/lending-club), I use exploratory data analysis, data pre-processing, and an RNN model using TensorFlow to determine if a person would be able to pay off a loan (loan_status column) given other factors from: 
 * 0   loan_amnt             396030 non-null  float64
