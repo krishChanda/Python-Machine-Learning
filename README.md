@@ -66,6 +66,8 @@ Given a dataset from Kaggle for [loan details](https://www.kaggle.com/wordsforth
 * Fit the model with the train data and make predictions using test split & plot model history performance
 * Create a classification report & confusion matrix to determine the accuracy of the model
 
+## Model Diagram:
+![RNN Model](images/RNNModel.png)
 ## Model Conclusion:
 The model had an accuracy f1-score of 0.89, meaning, given information about a user from a dataset, the model had approximately an 89% chance of guessing right whether a person can pay off a loan or have to be charged off.
 
