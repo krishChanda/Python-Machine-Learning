@@ -5,7 +5,7 @@
 # Natural Language Processing (NLP) Project:
 Given a dataset of Yelp reviews from [Kaggle](https://www.kaggle.com/c/yelp-recsys-2013), I used exploratory data analysis and implemented an NLP model using the Python sklearn library in order to determine based on a review, whether it was positive (5-star) or negative (1-star).
 
-
+### Correlation Map
 ![Heatmap](images/Heatmap.png)
 
 * 0   business_id  10000 non-null  object
