@@ -75,7 +75,7 @@ Given a dataset from Kaggle for [loan details](https://www.kaggle.com/wordsforth
 ## Model Conclusion:
 The model had an accuracy f1-score of 0.89, meaning, given information about a user from a dataset, the model had approximately an 89% chance of guessing right whether a person can pay off a loan or have to be charged off.
 
-### Model Accuracy over each epochs run
+### Training loss rate over each epoch run:
 ![History Model](images/ModelHistory.png)
 
 # Following Python Libraries Used:
