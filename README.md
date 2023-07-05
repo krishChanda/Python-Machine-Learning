@@ -55,10 +55,13 @@ Project Overview:
 * Create a classification report & confusion matrix to determine the accuracy of the model
 
 
-Following Python Libraries Used:
+# Following Python Libraries Used:
 * NumPy
 * Pandas
 * Matplotlib
 * Seaborn
 * Plotly
+* Sklearn
+* TensorFlow
+* Keras
 
